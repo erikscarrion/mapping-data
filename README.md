@@ -1,15 +1,15 @@
 # Mapping Data in Python
 Coursera Lesson 2: Mapping Data to Python
 
-This repository is part of the Coursera course: [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke) that covers the following topics:
+This repository is my submission as part of Week 1 of the Coursera course: [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 
-1. Develop data engineering solutions using Python and the Linux environment
-2. Design scripts to connect and query a SQL database using Python
-3. Use a scraping tool to extract data from the web
-4. Setup a provisioned Python project environment
+## Data
+For this exercise, we make use of the wine ratings data in the sample_data folder.
 
-## Exercise
-For this exercise, you will be using data from the [sample_data/](/../../tree/main/sample_data) and the [exercise.ipynb](/../../tree/main/exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
+## Purpose of Exercise
 
-## Questions or Issues?
-Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
+After forking the repository and then cloning to a local machine, we perform the following actions: 
+1. Import the data using pandas
+2. Limit the data to californian red wines with a rating of 90 or better
+3. Convert the filtered data frame to a dictionary
+4. Save the dictionary as a json file
