@@ -13,3 +13,5 @@ After forking the repository and then cloning to a local machine, we perform the
 2. Limit the data to californian red wines with a rating of 90 or better
 3. Convert the filtered data frame to a dictionary
 4. Save the dictionary as a json file
+
+# [Watch the video walk through](https://youtu.be/zmTd4_Op2xU)
