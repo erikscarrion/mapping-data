@@ -14,4 +14,3 @@ After forking the repository and then cloning to a local machine, we perform the
 3. Convert the filtered data frame to a dictionary
 4. Save the dictionary as a json file
 
-# [Watch the video walk through](https://youtu.be/zmTd4_Op2xU)
